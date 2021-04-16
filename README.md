@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/thehackingsage/discord-cybersec-server/blob/master/logo.png?raw=true"/></p>
+<p align="center"><img src="https://github.com/thehackingsage/discord-cybersec-server/blob/main/logo.png?raw=true"/></p>
 
 # Discord Server Templates : 
 
@@ -18,7 +18,7 @@ Roles : Root (Admin), Sudo (Moderator), Mentor, Omniscient, Researcher, Bug Hunt
 - Visit : https://bit.ly/cybersecdiscord
 - A popup will appear in your discord app
 
-<p align="center"><img src="https://github.com/thehackingsage/discord-cybersec-server/blob/master/cybersec-server-template.png?raw=true"/></p>
+<p align="center"><img src="https://github.com/thehackingsage/discord-cybersec-server/blob/main/cybersec-server-template.png?raw=true"/></p>
 
 - Enter your server name
 - Set the server logo
