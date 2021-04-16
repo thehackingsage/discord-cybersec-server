@@ -1,5 +1,4 @@
 <p align="center"><img src="https://github.com/thehackingsage/discord-cybersec-server/blob/master/logo.png?raw=true" /></p>
-<p align="center">CyberSecurity Discord Server Template by Mr.SAGE (https://linktr.ee/thehackingsage)</p>
 
 # Discord Server Templates : 
 
@@ -26,7 +25,8 @@ Roles : Root (Admin), Sudo (Moderator), Mentor, Omniscient, Researcher, Bug Hunt
 - Then click on **create**
 - Review The Server and Add or Remove Categories, Channels, Roles and Permissions
 - Add Bots ([10 Best Discord Bots for Any Server](https://droplr.com/how-to/productivity-tools/10-best-discord-bots-for-any-server/))
+- 
 
 Thats it!!! now create an invite link and invite people to join your server.
 
-Start Your Own InfoSec Community !!!
+Start Your InfoSec Community !!!
