@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/thehackingsage/discord-cybersec-server/blob/master/logo.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/thehackingsage/discord-cybersec-server/blob/master/logo.png?raw=true"/></p>
 
 # Discord Server Templates : 
 
@@ -8,9 +8,9 @@ A server template is an easy way to share your server setup and help anyone crea
 
 # About CyberSecurity Server Template for Discord : 
 
-Categories : Linux, Windows, Mac OS, Networking, Capture The Flag, Hack The Box, TryHackMe, Bug Hunting, Penetration Testing, Hardware Hacking, Raspberry Pi, Arduino, Github, Programming, Dark Web, Android, iPhone, Courses, Ebooks, Tools, Career, Shop, DIY Projects, Gaming Zone.
+Categories : Linux, Windows, Mac OS, Networking, Capture The Flag, Hack The Box, TryHackMe, Bug Hunting, Penetration Testing, Red Team, Blue Team, Hardware Hacking, IoT, Raspberry Pi, Arduino, Open-Source Projects, Programming, Dark Web, Android, iPhone, Courses, Ebooks, Tools, Career, Shop, DIY Projects, Gaming Zone.
 
-Roles : Root (Admin), Sudo (Moderator), Mentor, Omniscient, Researcher, Bug Hunter, CTF Player, Developer, Verified Account.
+Roles : Root (Admin), Sudo (Moderator), Mentor, Omniscient, Researcher, Bug Hunter, Penester, CTF Player, Developer, Verified Account.
 
 # How To Setup : 
 
@@ -23,10 +23,7 @@ Roles : Root (Admin), Sudo (Moderator), Mentor, Omniscient, Researcher, Bug Hunt
 - Enter your server name
 - Set the server logo
 - Then click on **create**
-- Review The Server and Add or Remove Categories, Channels, Roles and Permissions
+- Add or Remove Categories, Channels, Roles and Permissions
 - Add Bots ([10 Best Discord Bots for Any Server](https://droplr.com/how-to/productivity-tools/10-best-discord-bots-for-any-server/))
-- 
 
-Thats it!!! now create an invite link and invite people to join your server.
-
-Start Your InfoSec Community !!!
+Thats it!!! now create an invite link and add people to your server..
